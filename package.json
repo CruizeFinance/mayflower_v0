@@ -1,0 +1,21 @@
+{
+  "name": "cruizedydxclient",
+  "version": "1.0.0",
+  "description": "this is Cruize dydx Client",
+  "main": "src/Controllar.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dydx",
+    "defi"
+  ],
+  "author": "Cruize Fiances",
+  "license": "MIT ",
+  "dependencies": {
+    "@dydxprotocol/v3-client": "^1.11.0",
+    "@types/node": "^18.0.5",
+    "dotenv": "^16.0.1",
+    "web3": "^1.7.4"
+  }
+}
