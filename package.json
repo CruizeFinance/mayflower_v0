@@ -10,7 +10,7 @@
     "dydx",
     "defi"
   ],
-  "author": "Cruize Fiances",
+  "author": "Cruize Fiance",
   "license": "MIT ",
   "dependencies": {
     "@dydxprotocol/v3-client": "^1.11.0",
